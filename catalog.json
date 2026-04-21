@@ -1,0 +1,64 @@
+{
+  "scholars": [
+    {
+      "id": "yousef_al_qatt",
+      "name_ar": "يوسف القط",
+      "name_en": "Yousef Al-Qatt",
+      "bio_ar": "داعية إسلامي مصري متخصص في تقديم المحتوى الإسلامي للشباب بأسلوب معاصر وجذّاب، يجمع بين أصالة الثوابت الإسلامية ومعالجة تحديات العصر.",
+      "avatar_url": null,
+      "youtube_channel_id": "",
+      "tags": ["youth", "dawah", "quran"],
+      "featured": true
+    },
+    {
+      "id": "mohammed_al_ghaliz",
+      "name_ar": "محمد الغليظ",
+      "name_en": "Mohammed Al-Ghaliz",
+      "bio_ar": "داعية إسلامي سعودي يقدم الفقه الإسلامي والتوجيه الشرعي بأسلوب مبسّط ومؤثر، متخصص في الخطاب الشبابي والتعامل مع الإشكاليات المعاصرة.",
+      "avatar_url": null,
+      "youtube_channel_id": "",
+      "tags": ["fiqh", "youth", "dawah"],
+      "featured": true
+    },
+    {
+      "id": "amjad_samir",
+      "name_ar": "أمجد سامر",
+      "name_en": "Amjad Samir",
+      "bio_ar": "داعية إسلامي مصري يتميز بأسلوبه المعاصر في تناول القضايا الإسلامية، ويُقدّم محتوى دعوياً متنوعاً موجهاً للشباب مع التركيز على التزكية والتربية.",
+      "avatar_url": null,
+      "youtube_channel_id": "",
+      "tags": ["youth", "dawah", "zuhd"],
+      "featured": true
+    },
+    {
+      "id": "abdulrahman_al_harami",
+      "name_ar": "عبد الرحمن الحرمي",
+      "name_en": "Abdulrahman Al-Harami",
+      "bio_ar": "داعية إسلامي يقدم دروسه من بيت الله الحرام، متخصص في التفسير القرآني والتزكية، يتميز بأسلوبه الروحاني العميق في التقرب إلى الله.",
+      "avatar_url": null,
+      "youtube_channel_id": "",
+      "tags": ["quran", "zuhd", "tafseer"],
+      "featured": false
+    },
+    {
+      "id": "ahmed_al_arabi",
+      "name_ar": "د. أحمد العربي",
+      "name_en": "Dr. Ahmed Al-Arabi",
+      "bio_ar": "عالم إسلامي حاصل على درجة الدكتوراه في الشريعة الإسلامية، يتخصص في الفقه المقارن والعلوم الإسلامية، ويُقدّم تحليلاً عميقاً للمسائل الشرعية المعاصرة.",
+      "avatar_url": null,
+      "youtube_channel_id": "",
+      "tags": ["fiqh", "aqeedah", "tafseer"],
+      "featured": false
+    },
+    {
+      "id": "yasser_al_hazimi",
+      "name_ar": "ياسر الحزيمي",
+      "name_en": "Yasser Al-Hazimi",
+      "bio_ar": "داعية إسلامي سعودي متخصص في علوم العقيدة والفقه الإسلامي، يُقدّم دروساً علمية متينة في التوحيد والسنة النبوية بأسلوب واضح ومنهجي.",
+      "avatar_url": null,
+      "youtube_channel_id": "",
+      "tags": ["aqeedah", "fiqh", "quran"],
+      "featured": false
+    }
+  ]
+}

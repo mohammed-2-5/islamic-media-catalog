@@ -1,0 +1,95 @@
+{
+  "playlists": [
+    {
+      "id": "arabi_pl1",
+      "title_ar": "العقيدة الإسلامية",
+      "description_ar": "شرح أصول العقيدة الإسلامية وتصحيح المفاهيم",
+      "episodes": [
+        {
+          "id": "arabi_pl1_ep1",
+          "youtube_id": "",
+          "title_ar": "أركان الإيمان الستة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "arabi_pl1_ep2",
+          "youtube_id": "",
+          "title_ar": "التوحيد وأقسامه",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "arabi_pl1_ep3",
+          "youtube_id": "",
+          "title_ar": "الإيمان بالملائكة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "arabi_pl1_ep4",
+          "youtube_id": "",
+          "title_ar": "الإيمان باليوم الآخر",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "arabi_pl2",
+      "title_ar": "الفقه الميسّر",
+      "description_ar": "أحكام فقهية معاصرة بأدلتها الشرعية",
+      "episodes": [
+        {
+          "id": "arabi_pl2_ep1",
+          "youtube_id": "",
+          "title_ar": "أحكام المعاملات المالية",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "arabi_pl2_ep2",
+          "youtube_id": "",
+          "title_ar": "البيع والشراء في الإسلام",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "arabi_pl2_ep3",
+          "youtube_id": "",
+          "title_ar": "الربا وأضراره",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "arabi_pl3",
+      "title_ar": "التفسير العلمي",
+      "description_ar": "تفسير سور مختارة من القرآن الكريم",
+      "episodes": [
+        {
+          "id": "arabi_pl3_ep1",
+          "youtube_id": "",
+          "title_ar": "تفسير سورة البقرة — المقدمة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "arabi_pl3_ep2",
+          "youtube_id": "",
+          "title_ar": "تفسير آية الكرسي",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "arabi_pl3_ep3",
+          "youtube_id": "",
+          "title_ar": "تفسير سورة الإخلاص",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    }
+  ]
+}

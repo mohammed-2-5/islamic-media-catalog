@@ -1,0 +1,95 @@
+{
+  "playlists": [
+    {
+      "id": "hazimi_pl1",
+      "title_ar": "شرح كتاب التوحيد",
+      "description_ar": "شرح مفصّل لكتاب التوحيد للإمام محمد بن عبد الوهاب",
+      "episodes": [
+        {
+          "id": "hazimi_pl1_ep1",
+          "youtube_id": "",
+          "title_ar": "مقدمة في أهمية التوحيد",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "hazimi_pl1_ep2",
+          "youtube_id": "",
+          "title_ar": "باب فضل التوحيد",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "hazimi_pl1_ep3",
+          "youtube_id": "",
+          "title_ar": "باب الخوف من الشرك",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "hazimi_pl1_ep4",
+          "youtube_id": "",
+          "title_ar": "باب الدعاء عبادة",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "hazimi_pl2",
+      "title_ar": "السنة النبوية",
+      "description_ar": "شرح أحاديث من صحيح البخاري ومسلم",
+      "episodes": [
+        {
+          "id": "hazimi_pl2_ep1",
+          "youtube_id": "",
+          "title_ar": "حديث جبريل في الإسلام والإيمان",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "hazimi_pl2_ep2",
+          "youtube_id": "",
+          "title_ar": "حديث الأربعين النووية",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "hazimi_pl2_ep3",
+          "youtube_id": "",
+          "title_ar": "من علامات الساعة",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "hazimi_pl3",
+      "title_ar": "مسائل في الفقه والعقيدة",
+      "description_ar": "إجابات على أسئلة شرعية معاصرة",
+      "episodes": [
+        {
+          "id": "hazimi_pl3_ep1",
+          "youtube_id": "",
+          "title_ar": "حكم الاحتفال بالمولد النبوي",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "hazimi_pl3_ep2",
+          "youtube_id": "",
+          "title_ar": "البدعة وضوابطها",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "hazimi_pl3_ep3",
+          "youtube_id": "",
+          "title_ar": "التوسل وأنواعه",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    }
+  ]
+}

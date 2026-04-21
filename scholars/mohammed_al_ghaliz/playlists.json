@@ -1,0 +1,95 @@
+{
+  "playlists": [
+    {
+      "id": "ghaliz_pl1",
+      "title_ar": "فقه العبادات",
+      "description_ar": "شرح أحكام الصلاة والطهارة والصيام",
+      "episodes": [
+        {
+          "id": "ghaliz_pl1_ep1",
+          "youtube_id": "",
+          "title_ar": "شروط الصلاة وأركانها",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl1_ep2",
+          "youtube_id": "",
+          "title_ar": "أحكام الطهارة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl1_ep3",
+          "youtube_id": "",
+          "title_ar": "فقه الصيام",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl1_ep4",
+          "youtube_id": "",
+          "title_ar": "فقه الزكاة",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "ghaliz_pl2",
+      "title_ar": "الشباب وتحديات العصر",
+      "description_ar": "معالجة التحديات الفكرية والأخلاقية التي يواجهها الشباب",
+      "episodes": [
+        {
+          "id": "ghaliz_pl2_ep1",
+          "youtube_id": "",
+          "title_ar": "الهوية الإسلامية في زمن العولمة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl2_ep2",
+          "youtube_id": "",
+          "title_ar": "الإنترنت والشبكات الاجتماعية",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl2_ep3",
+          "youtube_id": "",
+          "title_ar": "كيف تختار رفقة الخير؟",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "ghaliz_pl3",
+      "title_ar": "دروس من السيرة",
+      "description_ar": "عبر وفوائد من حياة النبي ﷺ",
+      "episodes": [
+        {
+          "id": "ghaliz_pl3_ep1",
+          "youtube_id": "",
+          "title_ar": "مكانة النبي ﷺ في قلوب الصحابة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl3_ep2",
+          "youtube_id": "",
+          "title_ar": "الهجرة النبوية ودروسها",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl3_ep3",
+          "youtube_id": "",
+          "title_ar": "غزوة بدر الكبرى",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    }
+  ]
+}

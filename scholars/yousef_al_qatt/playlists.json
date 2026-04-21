@@ -1,0 +1,95 @@
+{
+  "playlists": [
+    {
+      "id": "yousef_qatt_pl1",
+      "title_ar": "حياة بلا قلق",
+      "description_ar": "سلسلة في علاج الهموم والقلق من القرآن والسنة",
+      "episodes": [
+        {
+          "id": "yousef_qatt_pl1_ep1",
+          "youtube_id": "",
+          "title_ar": "لماذا تقلق؟",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "yousef_qatt_pl1_ep2",
+          "youtube_id": "",
+          "title_ar": "التوكل على الله علاج لكل قلق",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "yousef_qatt_pl1_ep3",
+          "youtube_id": "",
+          "title_ar": "الرضا بالقضاء والقدر",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "yousef_qatt_pl1_ep4",
+          "youtube_id": "",
+          "title_ar": "الذكر دواء القلوب",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "yousef_qatt_pl2",
+      "title_ar": "مع القرآن",
+      "description_ar": "تأملات قرآنية للشباب",
+      "episodes": [
+        {
+          "id": "yousef_qatt_pl2_ep1",
+          "youtube_id": "",
+          "title_ar": "كيف تعيش مع القرآن؟",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "yousef_qatt_pl2_ep2",
+          "youtube_id": "",
+          "title_ar": "القرآن شفاء لما في الصدور",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "yousef_qatt_pl2_ep3",
+          "youtube_id": "",
+          "title_ar": "أسرار البسملة",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "yousef_qatt_pl3",
+      "title_ar": "خطوات الهداية",
+      "description_ar": "كيف تستقيم على طريق الله",
+      "episodes": [
+        {
+          "id": "yousef_qatt_pl3_ep1",
+          "youtube_id": "",
+          "title_ar": "أول خطوة في التوبة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "yousef_qatt_pl3_ep2",
+          "youtube_id": "",
+          "title_ar": "كيف تثبت على الطاعة؟",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "yousef_qatt_pl3_ep3",
+          "youtube_id": "",
+          "title_ar": "الصحبة الصالحة",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    }
+  ]
+}

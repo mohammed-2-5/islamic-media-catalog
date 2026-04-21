@@ -1,0 +1,95 @@
+{
+  "playlists": [
+    {
+      "id": "harami_pl1",
+      "title_ar": "تأملات قرآنية",
+      "description_ar": "وقفات تدبرية في آيات القرآن الكريم",
+      "episodes": [
+        {
+          "id": "harami_pl1_ep1",
+          "youtube_id": "",
+          "title_ar": "تدبر سورة الفاتحة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "harami_pl1_ep2",
+          "youtube_id": "",
+          "title_ar": "آيات الشفاء في القرآن",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "harami_pl1_ep3",
+          "youtube_id": "",
+          "title_ar": "أسماء الله الحسنى في القرآن",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "harami_pl1_ep4",
+          "youtube_id": "",
+          "title_ar": "تدبر سورة الكهف",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "harami_pl2",
+      "title_ar": "الزهد والرقائق",
+      "description_ar": "ترقيق القلوب والتزود للآخرة",
+      "episodes": [
+        {
+          "id": "harami_pl2_ep1",
+          "youtube_id": "",
+          "title_ar": "الدنيا في ميزان الإسلام",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "harami_pl2_ep2",
+          "youtube_id": "",
+          "title_ar": "الموت ذكر ويقين",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "harami_pl2_ep3",
+          "youtube_id": "",
+          "title_ar": "طول الأمل وخطره",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "harami_pl3",
+      "title_ar": "من الحرمين الشريفين",
+      "description_ar": "دروس ومحاضرات من مكة المكرمة والمدينة المنورة",
+      "episodes": [
+        {
+          "id": "harami_pl3_ep1",
+          "youtube_id": "",
+          "title_ar": "فضل مكة المكرمة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "harami_pl3_ep2",
+          "youtube_id": "",
+          "title_ar": "أسرار الطواف والسعي",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "harami_pl3_ep3",
+          "youtube_id": "",
+          "title_ar": "فضل المسجد النبوي والصلاة فيه",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    }
+  ]
+}

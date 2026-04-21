@@ -1,0 +1,95 @@
+{
+  "playlists": [
+    {
+      "id": "amjad_pl1",
+      "title_ar": "طريق التوبة",
+      "description_ar": "رحلة العودة إلى الله والثبات عليها",
+      "episodes": [
+        {
+          "id": "amjad_pl1_ep1",
+          "youtube_id": "",
+          "title_ar": "لم فوات الأوان",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "amjad_pl1_ep2",
+          "youtube_id": "",
+          "title_ar": "أبواب التوبة مفتوحة",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "amjad_pl1_ep3",
+          "youtube_id": "",
+          "title_ar": "كيف تثبت بعد التوبة؟",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "amjad_pl1_ep4",
+          "youtube_id": "",
+          "title_ar": "المعاصي وأثرها على القلب",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "amjad_pl2",
+      "title_ar": "في رحاب الإيمان",
+      "description_ar": "تعزيز الإيمان وتقوية الصلة بالله",
+      "episodes": [
+        {
+          "id": "amjad_pl2_ep1",
+          "youtube_id": "",
+          "title_ar": "حلاوة الإيمان",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "amjad_pl2_ep2",
+          "youtube_id": "",
+          "title_ar": "كيف تجدد إيمانك؟",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "amjad_pl2_ep3",
+          "youtube_id": "",
+          "title_ar": "علامات قسوة القلب",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    },
+    {
+      "id": "amjad_pl3",
+      "title_ar": "الشباب والطموح",
+      "description_ar": "كيف تبني مستقبلك وتحافظ على دينك",
+      "episodes": [
+        {
+          "id": "amjad_pl3_ep1",
+          "youtube_id": "",
+          "title_ar": "الوقت وكيف تستثمره",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "amjad_pl3_ep2",
+          "youtube_id": "",
+          "title_ar": "الطموح الحقيقي",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "amjad_pl3_ep3",
+          "youtube_id": "",
+          "title_ar": "النجاح بعيون إسلامية",
+          "duration_sec": 0,
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
