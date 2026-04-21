@@ -2,34 +2,34 @@
   "playlists": [
     {
       "id": "ghaliz_pl1",
-      "title_ar": "فقه العبادات",
-      "description_ar": "شرح أحكام الصلاة والطهارة والصيام",
+      "title_ar": "من أين أبدأ؟",
+      "description_ar": "سلسلة في بناء الإيمان من أسسه الصحيحة",
       "episodes": [
         {
           "id": "ghaliz_pl1_ep1",
-          "youtube_id": "",
-          "title_ar": "شروط الصلاة وأركانها",
+          "youtube_id": "Bgjz1VxODjY",
+          "title_ar": "من أين أبدأ؟ (١)",
           "duration_sec": 0,
-          "published": ""
+          "published": "2023-07-02"
         },
         {
           "id": "ghaliz_pl1_ep2",
-          "youtube_id": "",
-          "title_ar": "أحكام الطهارة",
+          "youtube_id": "o7m18Ccjs0Q",
+          "title_ar": "من أين أبدأ؟ (٢)",
           "duration_sec": 0,
-          "published": ""
+          "published": "2023-07-17"
         },
         {
           "id": "ghaliz_pl1_ep3",
-          "youtube_id": "",
-          "title_ar": "فقه الصيام",
+          "youtube_id": "rDf-YgGdHyQ",
+          "title_ar": "من أين أبدأ؟ (٣)",
           "duration_sec": 0,
-          "published": ""
+          "published": "2023-08-06"
         },
         {
           "id": "ghaliz_pl1_ep4",
-          "youtube_id": "",
-          "title_ar": "فقه الزكاة",
+          "youtube_id": "t8hahBt2mAU",
+          "title_ar": "إجابة سؤال «من أين أبدأ؟» — فضفضة الأحد",
           "duration_sec": 0,
           "published": ""
         }
@@ -37,27 +37,34 @@
     },
     {
       "id": "ghaliz_pl2",
-      "title_ar": "الشباب وتحديات العصر",
-      "description_ar": "معالجة التحديات الفكرية والأخلاقية التي يواجهها الشباب",
+      "title_ar": "خواطر وتأملات",
+      "description_ar": "مقاطع مؤثرة في الإيمان والتزكية والحياة",
       "episodes": [
         {
           "id": "ghaliz_pl2_ep1",
-          "youtube_id": "",
-          "title_ar": "الهوية الإسلامية في زمن العولمة",
+          "youtube_id": "czIkwiCiybk",
+          "title_ar": "عندك كام سنة؟",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "ghaliz_pl2_ep2",
-          "youtube_id": "",
-          "title_ar": "الإنترنت والشبكات الاجتماعية",
+          "youtube_id": "IcIl1dNrYvA",
+          "title_ar": "خليك حلو من جواك — فضفضة الأحد",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "ghaliz_pl2_ep3",
-          "youtube_id": "",
-          "title_ar": "كيف تختار رفقة الخير؟",
+          "youtube_id": "b_5MunNm-Fw",
+          "title_ar": "من أين يأتي الهم؟",
+          "duration_sec": 0,
+          "published": ""
+        },
+        {
+          "id": "ghaliz_pl2_ep4",
+          "youtube_id": "gtKC6Xa_RnU",
+          "title_ar": "القرآن — مقطع مؤثر",
           "duration_sec": 0,
           "published": ""
         }
@@ -65,27 +72,13 @@
     },
     {
       "id": "ghaliz_pl3",
-      "title_ar": "دروس من السيرة",
-      "description_ar": "عبر وفوائد من حياة النبي ﷺ",
+      "title_ar": "بيت فيه رجل",
+      "description_ar": "سلسلة في بناء الأسرة المسلمة",
       "episodes": [
         {
           "id": "ghaliz_pl3_ep1",
-          "youtube_id": "",
-          "title_ar": "مكانة النبي ﷺ في قلوب الصحابة",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "ghaliz_pl3_ep2",
-          "youtube_id": "",
-          "title_ar": "الهجرة النبوية ودروسها",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "ghaliz_pl3_ep3",
-          "youtube_id": "",
-          "title_ar": "غزوة بدر الكبرى",
+          "youtube_id": "IPyQCjO_f5w",
+          "title_ar": "بيت فيه رجل (١)",
           "duration_sec": 0,
           "published": ""
         }

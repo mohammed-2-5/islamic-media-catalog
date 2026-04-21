@@ -2,34 +2,27 @@
   "playlists": [
     {
       "id": "harami_pl1",
-      "title_ar": "تأملات قرآنية",
-      "description_ar": "وقفات تدبرية في آيات القرآن الكريم",
+      "title_ar": "القضاء والقدر",
+      "description_ar": "سلسلة متكاملة في فهم القضاء والقدر والتعامل معه",
       "episodes": [
         {
           "id": "harami_pl1_ep1",
-          "youtube_id": "",
-          "title_ar": "تدبر سورة الفاتحة",
+          "youtube_id": "1wdTuYU9dzI",
+          "title_ar": "ما كان لك سيأتيك على ضعفك (١)",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "harami_pl1_ep2",
-          "youtube_id": "",
-          "title_ar": "آيات الشفاء في القرآن",
+          "youtube_id": "am6jfmu7E_M",
+          "title_ar": "القضاء والقدر: بين الإيمان والعمل (٢)",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "harami_pl1_ep3",
-          "youtube_id": "",
-          "title_ar": "أسماء الله الحسنى في القرآن",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "harami_pl1_ep4",
-          "youtube_id": "",
-          "title_ar": "تدبر سورة الكهف",
+          "youtube_id": "gTHfoK3VfCw",
+          "title_ar": "هل الإنسان مخيّر أم مسيّر؟ (٣)",
           "duration_sec": 0,
           "published": ""
         }
@@ -37,27 +30,13 @@
     },
     {
       "id": "harami_pl2",
-      "title_ar": "الزهد والرقائق",
-      "description_ar": "ترقيق القلوب والتزود للآخرة",
+      "title_ar": "مداخل الشيطان",
+      "description_ar": "كيف يدخل الشيطان على المسلم وكيف يتحصن",
       "episodes": [
         {
           "id": "harami_pl2_ep1",
-          "youtube_id": "",
-          "title_ar": "الدنيا في ميزان الإسلام",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "harami_pl2_ep2",
-          "youtube_id": "",
-          "title_ar": "الموت ذكر ويقين",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "harami_pl2_ep3",
-          "youtube_id": "",
-          "title_ar": "طول الأمل وخطره",
+          "youtube_id": "Wrqr5goCf6o",
+          "title_ar": "الشيطان يعرف نقطة ضعفك",
           "duration_sec": 0,
           "published": ""
         }
@@ -65,27 +44,27 @@
     },
     {
       "id": "harami_pl3",
-      "title_ar": "من الحرمين الشريفين",
-      "description_ar": "دروس ومحاضرات من مكة المكرمة والمدينة المنورة",
+      "title_ar": "محاضرات متنوعة",
+      "description_ar": "دروس في التزكية والعبادات والحياة الروحية",
       "episodes": [
         {
           "id": "harami_pl3_ep1",
-          "youtube_id": "",
-          "title_ar": "فضل مكة المكرمة",
+          "youtube_id": "UWe620upHE0",
+          "title_ar": "ستعشق الصلاة بعد هذه المحاضرة",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "harami_pl3_ep2",
-          "youtube_id": "",
-          "title_ar": "أسرار الطواف والسعي",
+          "youtube_id": "S4AwFRvrl74",
+          "title_ar": "إنسان سماوي يسعى في طلب الرزق",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "harami_pl3_ep3",
-          "youtube_id": "",
-          "title_ar": "فضل المسجد النبوي والصلاة فيه",
+          "youtube_id": "FoIKdaM2sPE",
+          "title_ar": "قصة أدّبتني",
           "duration_sec": 0,
           "published": ""
         }

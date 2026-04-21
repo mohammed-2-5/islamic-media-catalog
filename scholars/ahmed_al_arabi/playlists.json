@@ -2,34 +2,20 @@
   "playlists": [
     {
       "id": "arabi_pl1",
-      "title_ar": "العقيدة الإسلامية",
-      "description_ar": "شرح أصول العقيدة الإسلامية وتصحيح المفاهيم",
+      "title_ar": "تذوق العبادات",
+      "description_ar": "كيف تتذوق حلاوة الصلاة والقرآن والدعاء",
       "episodes": [
         {
           "id": "arabi_pl1_ep1",
-          "youtube_id": "",
-          "title_ar": "أركان الإيمان الستة",
+          "youtube_id": "63_AOCldyXo",
+          "title_ar": "تذوق العبادات (١) — الصلاة",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "arabi_pl1_ep2",
-          "youtube_id": "",
-          "title_ar": "التوحيد وأقسامه",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "arabi_pl1_ep3",
-          "youtube_id": "",
-          "title_ar": "الإيمان بالملائكة",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "arabi_pl1_ep4",
-          "youtube_id": "",
-          "title_ar": "الإيمان باليوم الآخر",
+          "youtube_id": "hK-9Be0prrA",
+          "title_ar": "تذوق العبادات (٢) — القرآن",
           "duration_sec": 0,
           "published": ""
         }
@@ -37,27 +23,20 @@
     },
     {
       "id": "arabi_pl2",
-      "title_ar": "الفقه الميسّر",
-      "description_ar": "أحكام فقهية معاصرة بأدلتها الشرعية",
+      "title_ar": "القلب السليم",
+      "description_ar": "طريق تزكية النفس وبناء القلب الصالح",
       "episodes": [
         {
           "id": "arabi_pl2_ep1",
-          "youtube_id": "",
-          "title_ar": "أحكام المعاملات المالية",
+          "youtube_id": "ZWraKKwNfpE",
+          "title_ar": "كيف نصل إلى القلب السليم؟",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "arabi_pl2_ep2",
-          "youtube_id": "",
-          "title_ar": "البيع والشراء في الإسلام",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "arabi_pl2_ep3",
-          "youtube_id": "",
-          "title_ar": "الربا وأضراره",
+          "youtube_id": "lkX6mcCD3CI",
+          "title_ar": "أنا صاحبك القرآن — كيف يكون القرآن صاحبي؟",
           "duration_sec": 0,
           "published": ""
         }
@@ -65,27 +44,13 @@
     },
     {
       "id": "arabi_pl3",
-      "title_ar": "التفسير العلمي",
-      "description_ar": "تفسير سور مختارة من القرآن الكريم",
+      "title_ar": "فقه العبادات",
+      "description_ar": "أحكام شرعية ميسّرة في الصيام والعبادات",
       "episodes": [
         {
           "id": "arabi_pl3_ep1",
-          "youtube_id": "",
-          "title_ar": "تفسير سورة البقرة — المقدمة",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "arabi_pl3_ep2",
-          "youtube_id": "",
-          "title_ar": "تفسير آية الكرسي",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "arabi_pl3_ep3",
-          "youtube_id": "",
-          "title_ar": "تفسير سورة الإخلاص",
+          "youtube_id": "svqpnBL67qg",
+          "title_ar": "فقه الصيام (١) وفضل العلم",
           "duration_sec": 0,
           "published": ""
         }

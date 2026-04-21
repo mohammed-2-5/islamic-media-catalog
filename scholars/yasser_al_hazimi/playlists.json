@@ -2,34 +2,34 @@
   "playlists": [
     {
       "id": "hazimi_pl1",
-      "title_ar": "شرح كتاب التوحيد",
-      "description_ar": "شرح مفصّل لكتاب التوحيد للإمام محمد بن عبد الوهاب",
+      "title_ar": "بناء الذات",
+      "description_ar": "كيف تبني شخصيتك وتحقق السلام الداخلي",
       "episodes": [
         {
           "id": "hazimi_pl1_ep1",
-          "youtube_id": "",
-          "title_ar": "مقدمة في أهمية التوحيد",
+          "youtube_id": "PSIMH8owENk",
+          "title_ar": "من أنا؟",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "hazimi_pl1_ep2",
-          "youtube_id": "",
-          "title_ar": "باب فضل التوحيد",
+          "youtube_id": "p06JOSN5ehI",
+          "title_ar": "البدايات",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "hazimi_pl1_ep3",
-          "youtube_id": "",
-          "title_ar": "باب الخوف من الشرك",
+          "youtube_id": "AGIC2aYDaYw",
+          "title_ar": "ضيّعت أكثر من 20 سنة لأكتشف هذه الحقيقة",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "hazimi_pl1_ep4",
-          "youtube_id": "",
-          "title_ar": "باب الدعاء عبادة",
+          "youtube_id": "o5V4A2ZJ0jA",
+          "title_ar": "كيف تتحول حياتك من الصفر إلى القمة؟",
           "duration_sec": 0,
           "published": ""
         }
@@ -37,27 +37,27 @@
     },
     {
       "id": "hazimi_pl2",
-      "title_ar": "السنة النبوية",
-      "description_ar": "شرح أحاديث من صحيح البخاري ومسلم",
+      "title_ar": "الهدوء والسلام النفسي",
+      "description_ar": "محاضرات في التحكم بالمشاعر والهدوء الداخلي",
       "episodes": [
         {
           "id": "hazimi_pl2_ep1",
-          "youtube_id": "",
-          "title_ar": "حديث جبريل في الإسلام والإيمان",
+          "youtube_id": "YopKllz8jxE",
+          "title_ar": "فن الهدوء والسلام النفسي",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "hazimi_pl2_ep2",
-          "youtube_id": "",
-          "title_ar": "حديث الأربعين النووية",
+          "youtube_id": "vnDLFxviBMc",
+          "title_ar": "كلام يبرد القلب — لا تهلك عقلك بالتفكير",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "hazimi_pl2_ep3",
-          "youtube_id": "",
-          "title_ar": "من علامات الساعة",
+          "youtube_id": "6N_AMqOOuiY",
+          "title_ar": "الخوف",
           "duration_sec": 0,
           "published": ""
         }
@@ -65,27 +65,20 @@
     },
     {
       "id": "hazimi_pl3",
-      "title_ar": "مسائل في الفقه والعقيدة",
-      "description_ar": "إجابات على أسئلة شرعية معاصرة",
+      "title_ar": "مواجهة المخاوف",
+      "description_ar": "كيف تواجه مخاوفك وتتغلب عليها",
       "episodes": [
         {
           "id": "hazimi_pl3_ep1",
-          "youtube_id": "",
-          "title_ar": "حكم الاحتفال بالمولد النبوي",
+          "youtube_id": "ZFqCNbcnKXA",
+          "title_ar": "كيف أتغير وأواجه مخاوفي؟",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "hazimi_pl3_ep2",
-          "youtube_id": "",
-          "title_ar": "البدعة وضوابطها",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "hazimi_pl3_ep3",
-          "youtube_id": "",
-          "title_ar": "التوسل وأنواعه",
+          "youtube_id": "XRDQDAi1z4M",
+          "title_ar": "أول ظهور لي على التلفزيون قبل 23 سنة",
           "duration_sec": 0,
           "published": ""
         }

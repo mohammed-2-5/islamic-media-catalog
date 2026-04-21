@@ -2,34 +2,27 @@
   "playlists": [
     {
       "id": "amjad_pl1",
-      "title_ar": "طريق التوبة",
-      "description_ar": "رحلة العودة إلى الله والثبات عليها",
+      "title_ar": "لازم تتحرر",
+      "description_ar": "سلسلة في التحرر من موانع الحياة الصحيحة",
       "episodes": [
         {
           "id": "amjad_pl1_ep1",
-          "youtube_id": "",
-          "title_ar": "لم فوات الأوان",
+          "youtube_id": "agFMbV32JIc",
+          "title_ar": "لازم تتحرر (١) — التحرر من الغفلة",
           "duration_sec": 0,
-          "published": ""
+          "published": "2024-11-01"
         },
         {
           "id": "amjad_pl1_ep2",
-          "youtube_id": "",
-          "title_ar": "أبواب التوبة مفتوحة",
+          "youtube_id": "DdxrQV_bkkY",
+          "title_ar": "لازم تتحرر (٢) — التحرر من التفاهة",
           "duration_sec": 0,
-          "published": ""
+          "published": "2024-12-01"
         },
         {
           "id": "amjad_pl1_ep3",
-          "youtube_id": "",
-          "title_ar": "كيف تثبت بعد التوبة؟",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "amjad_pl1_ep4",
-          "youtube_id": "",
-          "title_ar": "المعاصي وأثرها على القلب",
+          "youtube_id": "f0AHyAhNulc",
+          "title_ar": "لازم تتحرر (٥) — التحرر من التشتت",
           "duration_sec": 0,
           "published": ""
         }
@@ -37,55 +30,27 @@
     },
     {
       "id": "amjad_pl2",
-      "title_ar": "في رحاب الإيمان",
-      "description_ar": "تعزيز الإيمان وتقوية الصلة بالله",
+      "title_ar": "التزكية والتربية",
+      "description_ar": "دروس في إصلاح النفس وتقوية الصلة بالله",
       "episodes": [
         {
           "id": "amjad_pl2_ep1",
-          "youtube_id": "",
-          "title_ar": "حلاوة الإيمان",
+          "youtube_id": "YFIzSm6lZOY",
+          "title_ar": "بناء وعطاء — سلسلة أمة",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "amjad_pl2_ep2",
-          "youtube_id": "",
-          "title_ar": "كيف تجدد إيمانك؟",
+          "youtube_id": "L4w9WuFUvyE",
+          "title_ar": "لن يستقيم لك فعل إلا بترك",
           "duration_sec": 0,
           "published": ""
         },
         {
           "id": "amjad_pl2_ep3",
-          "youtube_id": "",
-          "title_ar": "علامات قسوة القلب",
-          "duration_sec": 0,
-          "published": ""
-        }
-      ]
-    },
-    {
-      "id": "amjad_pl3",
-      "title_ar": "الشباب والطموح",
-      "description_ar": "كيف تبني مستقبلك وتحافظ على دينك",
-      "episodes": [
-        {
-          "id": "amjad_pl3_ep1",
-          "youtube_id": "",
-          "title_ar": "الوقت وكيف تستثمره",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "amjad_pl3_ep2",
-          "youtube_id": "",
-          "title_ar": "الطموح الحقيقي",
-          "duration_sec": 0,
-          "published": ""
-        },
-        {
-          "id": "amjad_pl3_ep3",
-          "youtube_id": "",
-          "title_ar": "النجاح بعيون إسلامية",
+          "youtube_id": "M_QUVmboeoI",
+          "title_ar": "حل عملي لإدارة الوقت والمهام",
           "duration_sec": 0,
           "published": ""
         }
