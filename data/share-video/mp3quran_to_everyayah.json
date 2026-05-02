@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "source": "scripts/check_everyayah_coverage.py",
+  "everyayahBase": "https://everyayah.com/data",
+  "moshafCount": 50,
+  "moshafMappings": {
+    "1": {
+      "everyayahFolder": "Ibrahim_Akhdar_32kbps",
+      "reciterName": "إبراهيم الأخضر",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "10": {
+      "everyayahFolder": "Akram_AlAlaqimy_128kbps",
+      "reciterName": "أكرم العلاقمي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "103": {
+      "everyayahFolder": "MaherAlMuaiqly128kbps",
+      "reciterName": "ماهر المعيقلي",
+      "moshafName": "المصحف المعلم - المصحف المعلم",
+      "riwayat": [
+        "muallim"
+      ]
+    },
+    "102": {
+      "everyayahFolder": "MaherAlMuaiqly128kbps",
+      "reciterName": "ماهر المعيقلي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "106": {
+      "everyayahFolder": "Mohammad_al_Tablaway_128kbps",
+      "reciterName": "محمد الطبلاوي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "320": {
+      "everyayahFolder": "Muhammad_Ayyoub_128kbps",
+      "reciterName": "محمد أيوب",
+      "moshafName": "حفص عن عاصم - 4",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "109": {
+      "everyayahFolder": "Muhammad_Ayyoub_128kbps",
+      "reciterName": "محمد أيوب",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "111": {
+      "everyayahFolder": "Muhammad_Jibreel_128kbps",
+      "reciterName": "محمد جبريل",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "114": {
+      "everyayahFolder": "Menshawi_16kbps",
+      "reciterName": "محمد صديق المنشاوي",
+      "moshafName": "المصحف المعلم - المصحف المعلم",
+      "riwayat": [
+        "muallim"
+      ]
+    },
+    "113": {
+      "everyayahFolder": "Minshawy_Mujawwad_192kbps",
+      "reciterName": "محمد صديق المنشاوي",
+      "moshafName": "المصحف المجود - المصحف المجود",
+      "riwayat": [
+        "mujawwad"
+      ]
+    },
+    "112": {
+      "everyayahFolder": "Menshawi_16kbps",
+      "reciterName": "محمد صديق المنشاوي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "269": {
+      "everyayahFolder": "Husary_128kbps",
+      "reciterName": "محمود خليل الحصري",
+      "moshafName": "الدوري عن أبي عمرو - مرتل",
+      "riwayat": [
+        "duri",
+        "murattal"
+      ]
+    },
+    "119": {
+      "everyayahFolder": "Husary_128kbps_Mujawwad",
+      "reciterName": "محمود خليل الحصري",
+      "moshafName": "المصحف المجود - المصحف المجود",
+      "riwayat": [
+        "mujawwad"
+      ]
+    },
+    "118": {
+      "everyayahFolder": "Husary_128kbps",
+      "reciterName": "محمود خليل الحصري",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "121": {
+      "everyayahFolder": "mahmoud_ali_al_banna_32kbps",
+      "reciterName": "محمود علي البنا",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "124": {
+      "everyayahFolder": "Alafasy_128kbps",
+      "reciterName": "مشاري العفاسي",
+      "moshafName": "الدوري عن الكسائي - مرتل",
+      "riwayat": [
+        "duri",
+        "murattal"
+      ]
+    },
+    "123": {
+      "everyayahFolder": "Alafasy_128kbps",
+      "reciterName": "مشاري العفاسي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "125": {
+      "everyayahFolder": "Mustafa_Ismail_48kbps",
+      "reciterName": "مصطفى إسماعيل",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "149": {
+      "everyayahFolder": "MaherAlMuaiqly128kbps",
+      "reciterName": "ماهر شخاشيرو",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "152": {
+      "everyayahFolder": "Yaser_Salamah_128kbps",
+      "reciterName": "ياسر سلامة",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "232": {
+      "everyayahFolder": "Yasser_Ad-Dussary_128kbps",
+      "reciterName": "إبراهيم الدوسري",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "205": {
+      "everyayahFolder": "Hudhaify_128kbps",
+      "reciterName": "أحمد الحذيفي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "218": {
+      "everyayahFolder": "Saood_ash-Shuraym_128kbps",
+      "reciterName": "خالد الشريمي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "226": {
+      "everyayahFolder": "Ghamadi_40kbps",
+      "reciterName": "خالد الغامدي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "24": {
+      "everyayahFolder": "khalefa_al_tunaiji_64kbps",
+      "reciterName": "خليفة الطنيجي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "30": {
+      "everyayahFolder": "Ghamadi_40kbps",
+      "reciterName": "سعد الغامدي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "31": {
+      "everyayahFolder": "Saood_ash-Shuraym_128kbps",
+      "reciterName": "سعود الشريم",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "32": {
+      "everyayahFolder": "Sahl_Yassin_128kbps",
+      "reciterName": "سهل ياسين",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "35": {
+      "everyayahFolder": "Yasser_Ad-Dussary_128kbps",
+      "reciterName": "سامي الدوسري",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "4": {
+      "everyayahFolder": "Abu_Bakr_Ash-Shaatree_128kbps",
+      "reciterName": "شيخ أبو بكر الشاطري",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "43": {
+      "everyayahFolder": "Salah_Al_Budair_128kbps",
+      "reciterName": "صلاح البدير",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "5": {
+      "everyayahFolder": "Ahmed_ibn_Ali_al-Ajamy_128kbps_ketaballah.net",
+      "reciterName": "أحمد بن علي العجمي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "53": {
+      "everyayahFolder": "Abdul_Basit_Murattal_192kbps",
+      "reciterName": "عبدالباسط عبدالصمد",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "51": {
+      "everyayahFolder": "Abdul_Basit_Mujawwad_128kbps",
+      "reciterName": "عبدالباسط عبدالصمد",
+      "moshafName": "المصحف المجود - المصحف المجود",
+      "riwayat": [
+        "mujawwad"
+      ]
+    },
+    "54": {
+      "everyayahFolder": "Abdurrahmaan_As-Sudais_192kbps",
+      "reciterName": "عبدالرحمن السديس",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "59": {
+      "everyayahFolder": "Abdullah_Matroud_128kbps",
+      "reciterName": "عبدالله المطرود",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "62": {
+      "everyayahFolder": "Abdullaah_3awwaad_Al-Juhaynee_128kbps",
+      "reciterName": "عبدالله عواد الجهني",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "67": {
+      "everyayahFolder": "Muhsin_Al_Qasim_192kbps",
+      "reciterName": "عبدالمحسن القاسم",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "305": {
+      "everyayahFolder": "Hudhaify_128kbps",
+      "reciterName": "علي بن عبدالرحمن الحذيفي",
+      "moshafName": "شعبة  عن عاصم - مرتل",
+      "riwayat": [
+        "murattal",
+        "shubah"
+      ]
+    },
+    "74": {
+      "everyayahFolder": "Hudhaify_128kbps",
+      "reciterName": "علي بن عبدالرحمن الحذيفي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "76": {
+      "everyayahFolder": "Ali_Jaber_64kbps",
+      "reciterName": "علي جابر",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "81": {
+      "everyayahFolder": "Fares_Abbad_64kbps",
+      "reciterName": "فارس عباد",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "86": {
+      "everyayahFolder": "Nasser_Alqatami_128kbps",
+      "reciterName": "ناصر القطامي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "87": {
+      "everyayahFolder": "Hani_Rifai_192kbps",
+      "reciterName": "نبيل الرفاعي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "89": {
+      "everyayahFolder": "Hani_Rifai_192kbps",
+      "reciterName": "هاني الرفاعي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "9": {
+      "everyayahFolder": "Ahmed_Neana_128kbps",
+      "reciterName": "أحمد نعينع",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "92": {
+      "everyayahFolder": "Yaser_Salamah_128kbps",
+      "reciterName": "ياسر الدوسري",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "93": {
+      "everyayahFolder": "Yaser_Salamah_128kbps",
+      "reciterName": "ياسر القرشي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "94": {
+      "everyayahFolder": "Yaser_Salamah_128kbps",
+      "reciterName": "ياسر الفيلكاوي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    },
+    "95": {
+      "everyayahFolder": "Yaser_Salamah_128kbps",
+      "reciterName": "ياسر المزروعي",
+      "moshafName": "قراءة يعقوب الحضرمي بروايتي رويس وروح - مرتل",
+      "riwayat": [
+        "murattal"
+      ]
+    }
+  }
+}
