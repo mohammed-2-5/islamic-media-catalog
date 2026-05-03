@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "source": "scripts/check_everyayah_coverage.py",
   "everyayahBase": "https://everyayah.com/data",
-  "moshafCount": 50,
+  "moshafCount": 48,
   "moshafMappings": {
     "1": {
       "everyayahFolder": "Ibrahim_Akhdar_32kbps",
@@ -166,14 +166,6 @@
         "murattal"
       ]
     },
-    "232": {
-      "everyayahFolder": "Yasser_Ad-Dussary_128kbps",
-      "reciterName": "إبراهيم الدوسري",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwayat": [
-        "murattal"
-      ]
-    },
     "205": {
       "everyayahFolder": "Hudhaify_128kbps",
       "reciterName": "أحمد الحذيفي",
@@ -225,14 +217,6 @@
     "32": {
       "everyayahFolder": "Sahl_Yassin_128kbps",
       "reciterName": "سهل ياسين",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwayat": [
-        "murattal"
-      ]
-    },
-    "35": {
-      "everyayahFolder": "Yasser_Ad-Dussary_128kbps",
-      "reciterName": "سامي الدوسري",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwayat": [
         "murattal"
@@ -376,7 +360,7 @@
       ]
     },
     "92": {
-      "everyayahFolder": "Yaser_Salamah_128kbps",
+      "everyayahFolder": "Yasser_Ad-Dussary_128kbps",
       "reciterName": "ياسر الدوسري",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwayat": [
